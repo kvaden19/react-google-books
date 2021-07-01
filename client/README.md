@@ -1,5 +1,3 @@
-1. Start by using the [01-Ins_Mern/create-react-express](../01-Activities/01-Ins_Mern/create-react-express) example as a base for your application.
-
 2. Add code to connect to a MongoDB database named `googlebooks` using the mongoose npm package.
 
 3. Using mongoose, then create a Book schema. At a minimum, books should have each of the following fields:

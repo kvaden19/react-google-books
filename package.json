@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/kvaden19/react-google-books/issues"
   },
-  "homepage": "https://github.com/kvaden19/react-google-books#readme"
+  "homepage": "https://github.com/kvaden19/react-google-books#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "if-env": "^1.0.4"
+  }
 }
